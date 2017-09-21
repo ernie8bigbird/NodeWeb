@@ -1,0 +1,14 @@
+{
+  "name": "library",
+  "version": "1.0.0",
+  "description": "learning web dev with Node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ernest Morgan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
